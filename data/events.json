@@ -1,1 +1,1 @@
-[null]
+[null,{"name":"유저차단","temp":"차단유저","event-type":"12","actions":[{"channel":"4","varName":"","message":"${tempVars(\"차단유저\")} 님께서 관리자에 의해 차단되셨습니다.","storage":"0","varName2":"","name":"Send Message"}]},{"name":"환영유저","temp":"환영유저","event-type":"6","actions":[{"channel":"4","varName":"","message":"**리틀 봇** >> 환영합니다, ${tempVars(\"환영유저\")} 님!\n**리틀 봇 도움말:** !도움말\n**리틀 봇 명령어:** !명령어\n리틀 봇은 명령어를 타이핑하지 않아도 자동으로 차단하는 기능이 있습니다.\n``오류 문의: 현솔#2377``","storage":"0","varName2":"","name":"Send Message"}]}]
